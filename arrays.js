@@ -30,7 +30,7 @@ function destructivelyRemoveElementFromBeginningOfArray(arrayElements) {
 }
 
 function removeElementFromBeginningOfArray(arrayElements) {
-  arrayElements.slice(1)  
+  arrayElements.slice(1)
 }
 
 
